@@ -65,7 +65,6 @@ class App extends Component {
   }
 
   updateAnItem = event => {
-    // console.log(event.target.dataset.complete)
     // let complete = event.target.dataset.complete === false ? true : false
     axios
       .put(
@@ -119,7 +118,7 @@ class App extends Component {
           <p>
             <img src={logo} height="42" alt="logo" />
           </p>
-          <p>&copy; Shea Copyright Nonesense</p>
+          <p>&copy; Shea Parrott Copyright Nonesense</p>
         </footer>
       </div>
     )
