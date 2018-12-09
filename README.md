@@ -1,5 +1,5 @@
  <strong>Summary</strong><br/>
-In this assignment we were instructed to fork and clone this assignment that goes through Javascript iteration. I found this to be a good practice to sharpen my skills and expand my knowledge. 
+In this assignment we were instructed to create a list management app called onelist using an API. The requirements of this app are needing to have a input field to add to the list, a option to cross off completed tasks, and an option to delete items from the list. All options mentioned are done by different events and API calls. 
 
 <strong>Things learned</strong><br/>
 expanded and reinforced my knowledge into HTML, CSS, Javascript, and REACT<br/>
