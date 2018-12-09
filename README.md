@@ -1,14 +1,17 @@
  <strong>Summary</strong><br/>
-In this assignment we were instructed to create a list management app called onelist using an API. The requirements of this app are needing to have a input field to add to the list, a option to cross off completed tasks, and an option to delete items from the list. All options mentioned are done by different events and API calls. 
+In this assignment we were instructed to create a list management app called onelist using an API. The requirements of this app are needing to have a input field to add tasks, a option to cross off completed tasks, and an option to delete tasks. All options mentioned are done by different events and API calls. 
 
 <strong>Things learned</strong><br/>
 expanded and reinforced my knowledge into HTML, CSS, Javascript, and REACT<br/>
+reinforced my knowledge on implementing different events<br/>
+how to prevent the default action of a event with the use of event.preventDefault()<br/>
 expanded my knowledge with fetching data using Axios library:<br/>
  - navigating through different kinds of response data<br/>
     - get<br/>
     - post<br/>
     - put<br/>
     - delete<br/>
+   
 
   
 
