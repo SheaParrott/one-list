@@ -3,7 +3,7 @@ In this assignment we were instructed to fork and clone this assignment that goe
 
 <strong>Things learned</strong><br/>
 expanded and reinforced my knowledge into HTML, CSS, Javascript, and REACT<br/>
-expanded my knowledge with fetching data using Axios library<br/>
+expanded my knowledge with fetching data using Axios library:<br/>
  - navigating through different kinds of response data<br/>
     - get<br/>
     - post<br/>
